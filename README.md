@@ -1,2 +1,2 @@
 # Toffee Hardware
-PCB designs for Toffee, the first open source time-of-flight depth camera
+PCB designs for Toffee 3D camera, the first open source time-of-flight depth camera
